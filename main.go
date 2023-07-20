@@ -2,7 +2,6 @@ package main
 
 import (
 	"os"
-
 	"github.com/smartcontractkit/chainlink/v2/core"
 )
 
